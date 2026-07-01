@@ -58,7 +58,7 @@ Model-Result-Task-2/
 ├── Model_Result_Task2.py
 ├── README.md
 │
-└── screenshot/
+└── screenshots/
     ├── model_comparison.png
     └── actual_vs_predicted.png
 ```
